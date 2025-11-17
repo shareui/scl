@@ -1,0 +1,5 @@
+name :: str { "demo" }
+items :: list(num) { 1, 2, 3 }
+enabled :: bool { true }
+
+
