@@ -3,7 +3,8 @@
   
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
-  A simple, human-readable configuration language with explicit typing and minimal syntax.
+  A simple, human-readable configuration language with explicit typing and minimal syntax.  
+  _Global version: 1.1.0 release_
 </div>
 
 ## Table of Contents
@@ -294,5 +295,6 @@ SCL is open source software licensed under the [MIT License](LICENSE).
 <div align="center">
   Made with ❤️ by <a href="https://t.me/shareui">shareui</a>
 </div>
+
 
 
