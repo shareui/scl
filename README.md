@@ -4,6 +4,7 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
   A simple, human-readable configuration language with explicit typing and minimal syntax.  
+  
   _Global version: 1.1.0 release_
 </div>
 
@@ -235,7 +236,7 @@ multiline :: ml {
 
 ### SCL is available in multiple programming languages:
 
-#### Python
+#### Python [1.1.0]
 • Ready  
 • Stable  
 • Available on PIP `structcfg-parser==1.1.0`  
@@ -243,27 +244,27 @@ multiline :: ml {
 #### Kotlin/Java
 • Not ready  
 
-#### Elixir
+#### Elixir [1.1.0]
 • Ready  
 • Tested  
 • Not available on mix  
 
-#### Ruby
+#### Ruby [1.1.0]
 • Ready  
 • Tested  
 • Not available on gem  
 
-#### C
+#### C [1.1.0]
 • Ready  
 • Not tested  
 • Available from src  
 
-#### Rust
+#### Rust [1.1.0]
 • Ready  
 • Not tested  
 • Not available on cargo  
 
-#### Go 
+#### Go [1.1.0]
 • Ready  
 • Not tested  
 • Aviable from `go get`
@@ -295,6 +296,7 @@ SCL is open source software licensed under the [MIT License](LICENSE).
 <div align="center">
   Made with ❤️ by <a href="https://t.me/shareui">shareui</a>
 </div>
+
 
 
 
