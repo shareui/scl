@@ -1,0 +1,16 @@
+[package]
+name = "scl_parser"
+version = "0.1.0"
+edition = "2021"
+authors = ["shareui"]
+license = "MIT"
+description = "Parser and serializer for Structured Configuration Language (SCL)"
+repository = "https://gitlab.com/shareui/scl"
+keywords = ["parser", "config", "scl"]
+
+[lib]
+name = "scl_parser"
+path = "src/lib.rs"
+
+[dependencies]
+
