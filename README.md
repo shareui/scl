@@ -27,7 +27,7 @@ tags :: list[str] { "api", "backend" }
 ## Install
 
 ```bash
-pip install structcfg-parser
+python -m pip install structcfg_parser-1.2.0-py3-none-any.whl
 ```
 
 ## Documentation
