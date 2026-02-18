@@ -29,7 +29,10 @@ tags :: list[str] { "api", "backend" }
 ```bash
 python -m pip install structcfg_parser-1.2.0-py3-none-any.whl
 ```
-
+Or
+```bash
+curl -L -o structcfg_parser-1.2.0-py3-none-any.whl https://github.com/shareui/scl/releases/download/1.2.0/structcfg_parser-1.2.0-py3-none-any.whl && pip install structcfg_parser-1.2.0-py3-none-any.whl && rm structcfg_parser-1.2.0-py3-none-any.whl
+```
 ## Documentation
 
 Full language reference, API docs, and examples are in the [Python package README](python/README.md) and on [PyPI](https://pypi.org/project/structcfg-parser/).
