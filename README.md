@@ -4,10 +4,6 @@ Python package (`pyscl`) for [SCL](https://github.com/shareui/scl-c) — Structu
 
 Wraps the native C library via `ctypes`. No Python dependencies.
 
-```sh
-pip install pyscl
-```
-
 ---
 
 ## Usage
