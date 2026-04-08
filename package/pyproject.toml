@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "scl"
+version = "1.0.0"
+description = "Python API for SCL (Structured Configuration Language) via native C library"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+
+[project.urls]
+Repository = "https://github.com/shareui/scl"
+Documentation = "https://github.com/shareui/scl-c/blob/main/docs/scl-lang.md"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+scl = ["native/*"]

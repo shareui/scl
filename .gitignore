@@ -1,0 +1,5 @@
+dev/
+package/test.py
+package/build/
+package/dist/
+package/src/scl.egg-info/
