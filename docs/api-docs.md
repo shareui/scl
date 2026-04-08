@@ -2,10 +2,6 @@
 
 Python bindings for SCL (Structured Configuration Language) via native C library.
 
-```sh
-pip install pyscl
-```
-
 [Language documentation](https://github.com/shareui/scl-c/blob/main/docs/scl-lang.md)
 
 ---
