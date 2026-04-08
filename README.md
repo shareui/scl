@@ -64,7 +64,7 @@ Build from source for other targets: [shareui/scl-c](https://github.com/shareui/
 
 ## Docs
 
-- [Python API]()
+- [Python API](https://github.com/shareui/scl/blob/main/docs/api-docs.md)
 - [Language reference](https://github.com/shareui/scl-c/blob/main/docs/scl-lang.md)
 - [C ABI reference](https://github.com/shareui/scl-c/blob/main/docs/scl-abi.md)
 
