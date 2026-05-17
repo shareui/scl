@@ -1,5 +1,7 @@
 # scl-pip
 
+Binding is no longer updated, please use [SCL-C](https://github.com/shareui/scl-c) dylib
+
 Python package (`pyscl`) for [SCL](https://github.com/shareui/scl-c) — Structured Configuration Language.
 
 Wraps the native C library via `ctypes`. No Python dependencies.
